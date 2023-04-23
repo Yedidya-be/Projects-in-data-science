@@ -17,7 +17,7 @@ To get started with this repository, follow the instructions below.
 3. Run the following command to clone the repository:
 
 ```
-git clone [repository URL]
+git clone https://github.com/Yedidya-be/Projects-in-data-science/tree/main/lesson-1
 ```
 
 
