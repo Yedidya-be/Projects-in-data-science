@@ -18,3 +18,5 @@ In the final part of the course, we will bring together the skills and knowledge
 ## Instructions
 
 Each exercise has its own subdirectory. In it, you will find a short README with instructions exercise and get started with the exercise Jupyter notebook. All other instructions and task descriptions are contained in the notebook.
+
+If you need further assistance or have any questions, feel free to contact me via email at yedidya.ben-eliyahu@weizmann.ac.il.
